@@ -2,11 +2,15 @@
   "questions": [
     "What programs does Iron Lady offer?",
     "What is the program duration",
-    "Is the program online or offline"
+    "Is the program online or offline",
+    "Are certificates provided?",
+    "Who are the mentors or coaches?"
   ],
   "answers": [
     "Iron Lady offers leadership programs focusing on confidence, communication, and executive presence for women.",
     "Most programs run between 8 to 12 weeks, depending on the level and format.",
-    "The programs are conducted online, with live interactive sessions."
+    "The programs are conducted online, with live interactive sessions.",
+    "Yes, participants receive certificates upon successful completion.",
+    "The programs are led by experienced leadership coaches and industry mentors from Iron Lady."
   ]
 }
